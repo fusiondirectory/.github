@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ We are a team based in Belgium an Portugal
+🙋‍♀️ We are a team based in Belgium and Portugal
 - We are working with the objective of democratizing and making identity management accessible to as many people as possible.
 - Everything we  made is free software :sunglasses:
 
