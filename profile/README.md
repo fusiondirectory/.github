@@ -15,7 +15,7 @@ You will find our guidelines for contributing [contributing](https://fusiondirec
 
 👩‍💻 You can find various documentation about our software :
 - [User documentation](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/index.html)
-- [Developper documentation](https://fusiondirectory-developer-documentation.readthedocs.io/en/1.4/fusiondirectory)
+- [Developper documentation](https://fusiondirectory-developer-documentation.readthedocs.io/en/latest/)
 - [FusionDirectory API](https://stable-api.fusiondirectory.org/index.html)
 - [FusionDirectory Rest API](https://rest-api.fusiondirectory.org)
 - [FusionDirectory schemas history](https://schemas.fusiondirectory.org)
